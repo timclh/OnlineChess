@@ -1,2 +1,3 @@
-# Real Chess
-Real-time chess game 
+# Online Chess Club
+
+Real-time chess game
